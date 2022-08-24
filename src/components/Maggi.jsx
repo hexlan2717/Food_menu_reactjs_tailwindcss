@@ -10,11 +10,11 @@ const Maggi = () => {
      /*Vegetarian menu starts */
        <ul className="font-Monty text-white font-bold">
         <li><span className="px-4">OREGANO CHEESY</span> <span className="text-2xl">80-/-</span> </li>
-        <li><span className="px-4">CHEESY CHILLI</span ><span className="text-2xl">80-/-</span> </li>
-        <li><span className="px-4">CHINESE MAGGI</span><span className="text-2xl">80-/-</span> </li>
-        <li><span className="px-4">PUNJABI TADKA </span> <span className="text-2xl">80-/-</span> </li>
-        <li><span className="px-4">MAKHNI TANDOORI  </span> <span className="text-2xl">80-/-</span> </li>
-        <li><span className="px-4">ALL VEGIES MASALA </span> <span className="text-2xl">80-/-</span> </li>
+        <li><span className="px-4">CHEESY CHILLI</span ><span className="text-2xl">90-/-</span> </li>
+        <li><span className="px-4">CHINESE MAGGI</span><span className="text-2xl">90-/-</span> </li>
+        <li><span className="px-4">PUNJABI TADKA </span> <span className="text-2xl">90-/-</span> </li>
+        <li><span className="px-4">MAKHNI TANDOORI  </span> <span className="text-2xl">90-/-</span> </li>
+        <li><span className="px-4">ALL VEGIES MASALA </span> <span className="text-2xl">90-/-</span> </li>
        
        </ul>
      /*Vegetarian Menu Ends */

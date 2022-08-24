@@ -10,6 +10,7 @@ import GarlicBread from './components/GarlicBread';
 import HealthyBowls from './components/HealthyBowls';
 import Maggi from './components/Maggi';
 import Menu from './components/Menu';
+import Momos from './components/Momos';
 import Navabr from './components/Navabr';
 import Pasta from './components/Pasta';
 import Pizza from './components/Pizza';
@@ -24,19 +25,21 @@ function App() {
 
       <Menu />
 
-      <GarlicBread />
-      
-      <Pasta />
-
       <Burger/>  
 
       <Sandwiches/>
 
+      <Pasta />
+
       <Wraps/>
 
-      <Chinese />
+      <GarlicBread />
+      
+     <Chinese />
 
       <Sides />
+
+      <Momos />
 
       <Maggi />
 

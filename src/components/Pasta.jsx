@@ -11,8 +11,8 @@ const Pasta = () => {
          <ul className="font-Monty text-white font-bold">
           <li><span className="px-4">WHITE SAUCE PENNE</span> <span className="text-2xl">150-/-</span> </li>
           <li><span className="px-4">RED SAUCE PENNE</span ><span className="text-2xl">150-/-</span> </li>
-          <li><span className="px-4">PINK SAUCE PENNE </span><span className="text-2xl">160-/-</span> </li>
-          <li><span className="px-4">CHESSY NACHOS CORN</span> <span className="text-2xl">200-/-</span> </li>
+          <li><span className="px-4">PINK SAUCE PENNE </span><span className="text-2xl">170-/-</span> </li>
+          <li><span className="px-4">CHESSY NACHOS CORN</span> <span className="text-2xl">210-/-</span> </li>
           <li><span className="px-4">TANDOORI MAKHNI</span><span className="text-2xl">200-/-</span> </li>
           <li><span className="px-4">SPL. BAKED</span> <span className="text-2xl">270-/-</span> </li>
          </ul>
@@ -29,7 +29,7 @@ const Pasta = () => {
           <li><span className="px-4">PINK SAUCE PENNE </span><span className="text-2xl">230-/-</span> </li>
           <li><span className="px-4">CHESSY NACHOS CORN</span> <span className="text-2xl">250-/-</span> </li>
           <li><span className="px-4">TANDOORI MAKHNI</span><span className="text-2xl">250-/-</span> </li>
-          <li><span className="px-4">SPL. BAKED</span> <span className="text-2xl">320-/-</span> </li>
+          <li><span className="px-4">SPL. BAKED</span> <span className="text-2xl">330-/-</span> </li>
          </ul>
         /*Non Vegettarin menu ends  */
     </div>

@@ -8,12 +8,14 @@ const Coolers = () => {
       
        /*Vegetarian menu starts */
          <ul className="font-Monty text-white font-bold">
-          <li><span className="px-4">LEMON ICE TEA</span> <span className="text-2xl">100-/-</span> </li>
-          <li><span className="px-4">PEACH ICE TEA</span ><span className="text-2xl">100-/-</span> </li>
-          <li><span className="px-4">WATER MELON MOJITO </span><span className="text-2xl">120-/-</span> </li>
-          <li><span className="px-4">GREEN APPLE MOJITO</span> <span className="text-2xl">120-/-</span> </li>
-          <li><span className="px-4">VIRGIN MOJITO (MUST TRY)</span><span className="text-2xl">120-/-</span> </li>
-          <li><span className="px-4">BUBBLEGUM MOJITO</span> <span className="text-2xl">120-/-</span> </li>
+          <li><span className="px-4">LEMON ICE TEA</span> <span className="text-2xl">120-/-</span> </li>
+          <li><span className="px-4">PEACH ICE TEA</span ><span className="text-2xl">120-/-</span> </li>
+          <li><span className="px-4">WATER MELON MOJITO </span><span className="text-2xl">150-/-</span> </li>
+          <li><span className="px-4">GREEN APPLE MOJITO</span> <span className="text-2xl">150-/-</span> </li>
+          <li><span className="px-4">VIRGIN MOJITO (MUST TRY)</span><span className="text-2xl">150-/-</span> </li>
+          <li><span className="px-4">BUBBLEGUM MOJITO</span> <span className="text-2xl">150-/-</span> </li>
+          <li><span className="px-4">BLACK CURRENT</span> <span className="text-2xl">150-/-</span> </li>
+
           <li><span className="px-4">STRAWBERRY MOJITO</span> <span className="text-2xl">120-/-</span> </li>
           <li><span className="px-4">MANGO MOJITO</span> <span className="text-2xl">120-/-</span> </li>
 

@@ -9,8 +9,7 @@ const Pizza = () => {
      <h2 className="font-Bree text-green-600"> Vegetarian </h2>
      /*Vegetarian menu starts */
        <ul className="font-Monty text-white font-bold">
-        <li><span className="px-4">VEG DOUBLE</span> <span className="text-2xl">80-/-</span> </li>
-        <li><span className="px-4">PIZZA IN JAR</span ><span className="text-2xl">150-/-</span> </li>
+        <li><span className="px-4">PIZZA IN JAR</span ><span className="text-2xl">170-/-</span> </li>
         <li><span className="px-4">ONION CAPSICUM </span><span className="text-2xl">150 / 270 / 350</span> </li>
         <li><span className="px-4">DEULUXE VEGGIES</span> <span className="text-2xl">150 / 300 / 400</span> </li>
         <li><span className="px-4">FARMHOUSE</span><span className="text-2xl">170 / 350 / 480</span> </li>
@@ -25,6 +24,8 @@ const Pizza = () => {
       <ul className="font-Monty text-white font-bold">
         <li><span className="px-4">CHICKEN LOADED</span> <span className="text-2xl">200 / 430 / 590</span> </li>
         <li><span className="px-4">BBQ CHICKEN TIKKA</span ><span className="text-2xl">200 / 430 / 590 </span> </li>
+        <li><span className="px-4">BUTTER CHICKEN </span ><span className="text-2xl">230 / 450 / 600 </span> </li>
+
        </ul>
       /*Non Vegettarin menu ends  */
   </div>
